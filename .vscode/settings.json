@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "stdio.h": "c",
+    "__availability": "c",
+    "__config": "c",
+    "atomic": "c",
+    "bitset": "c",
+    "locale": "c",
+    "type_traits": "c",
+    "algorithm": "c",
+    "typeinfo": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
